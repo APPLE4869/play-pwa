@@ -48,5 +48,5 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": null
+  "splash_pages": "images/apple-touch-icon.png"
 }
