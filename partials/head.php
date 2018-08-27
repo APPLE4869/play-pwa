@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
 
-<link rel="manifest" href="/manifest.webmanifest">
+<link rel="manifest" href="/manifest.json">
 <!-- <link rel="apple-touch-startup-image" href="partials/apple-touch-icon.png"> -->
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
