@@ -10,6 +10,6 @@
 
   <a href="/post.php">投稿</a>
 
-  <?php include("./partials/script.php") ?>
+  <?php include("./partials/javascript.php") ?>
 </body>
 </html>

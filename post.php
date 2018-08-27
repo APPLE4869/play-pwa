@@ -10,6 +10,6 @@
 
   <a href="/">ホーム</a>
 
-  <?php include("./partials/script.php") ?>
+  <?php include("./partials/javascript.php") ?>
 </body>
 </html>
