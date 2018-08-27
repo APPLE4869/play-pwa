@@ -6,9 +6,9 @@
   <?php include("./partials/head.php") ?>
 </head>
 <body>
-  <h1>ホーム</h1>
+  <h1>投稿</h1>
 
-  <a href="/post.php">投稿</a>
+  <a href="/">ホーム</a>
 
   <?php include("./partials/script.php") ?>
 </body>
