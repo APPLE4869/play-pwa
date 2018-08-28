@@ -15,7 +15,8 @@
       });
     });
 
-    alert(navigator.standalone);
+    alert(navigator.userAgent);
+    // alert(navigator.standalone);
   })();
 
   if ('serviceWorker' in navigator) {
