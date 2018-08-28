@@ -18,15 +18,13 @@
     alert(navigator.standalone);
   })();
 
-  // service-worker.js
-  self.addEventListener('install', function(e) {
-    console.log('[ServiceWorker] Install');
-  });
-
-  self.addEventListener('activate', function(e) {
-    console.log('[ServiceWorker] Activate');
-  });
-
-  // 現状では、この処理を書かないとService Workerが有効と判定されないようです
-  self.addEventListener('fetch', function(event) {});
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').then(function(registration) {
+      // 登録成功
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }).catch(function(err) {
+      // 登録失敗 :(
+      console.log('ServiceWorker registration failed: ', err);
+    });
+  }
 </script>
