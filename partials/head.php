@@ -30,7 +30,7 @@
 <meta name="theme-color" content="#FC4B83">
 
 <!-- 上部のバーの色 -->
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <!-- ここからスプラッシュ画像の設定 -->
 
