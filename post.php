@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ホーム</title>
+  <title>Dio!</title>
   <?php include("./partials/head.php") ?>
 </head>
 <body>
