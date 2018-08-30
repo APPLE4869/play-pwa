@@ -27,10 +27,10 @@
 <link rel="apple-touch-icon" sizes="180x180" href="images/icon/IOS/apple-touch-icon-180x180.png" />
 
 <!-- テーマカラー -->
-<meta name="theme-color" content="#00aa00">
+<meta name="theme-color" content="#FC4B83">
 
 <!-- 上部のバーの色 -->
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="#FC4B83">
 
 <!-- ここからスプラッシュ画像の設定 -->
 
