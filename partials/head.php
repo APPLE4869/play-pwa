@@ -13,7 +13,7 @@
 <meta name="apple-mobile-web-app-title" content="Appscope">
 
 <!--ホームアイコン-->
-<link rel="apple-touch-icon" href="images/icon/icon.png" />
+<link rel="apple-touch-icon" href="images/icon/iOS/Icon-40.png" />
 
 <!-- テーマカラー -->
 <meta name="theme-color" content="#00aa00">
