@@ -28,8 +28,8 @@ header .return-btn {
 }
 
 .container {
-  background: white;
-  padding: 80px 2.5vw 30px;
+  width: 95%;
+  margin: 80px auto 0;
 }
 
 a {
