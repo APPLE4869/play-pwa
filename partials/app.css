@@ -1,5 +1,8 @@
 header {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   background: #FC4B83;
   color: white;
   text-align: center;
@@ -21,7 +24,7 @@ header .return-btn {
 
 .container {
   width: 95%;
-  margin: 30px auto 0;
+  margin: 80px auto 0;
 }
 
 a {
