@@ -1,10 +1,80 @@
 header {
-  background: silver;
+  position: relative;
+  background: #FC4B83;
   color: white;
   text-align: center;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, .15);
+}
+
+header img {
+  height: 50px;
+}
+
+header .return-btn {
+  position: absolute;
+  left: 2.5vh;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 15px;
+  color: white;
+}
+
+.container {
+  width: 95%;
+  margin: 30px auto 0;
 }
 
 a {
   cursor: pointer;
+  display: block;
   color: navy;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, .1);
+  display: flex;
+  padding: 14px 10px;
+}
+
+a img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 100%;
+  min-width: 100%;
+}
+
+a .img-frame {
+  width: 45%;
+  position: relative;
+  overflow: hidden;
+}
+
+.text {
+  flex: 1;
+  color: gray;
+  margin-left: 3%;
+}
+
+.text h3 {
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+
+.text p {
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+
+.post-frame {
+  text-align: center;
+}
+
+.post-frame h3 {
+  font-size: 24px;
+  margin: 15px 0 10px;
+}
+
+.post-frame p {
+  font-size: 16px;
+  line-height: 24px;
 }
