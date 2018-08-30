@@ -6,6 +6,7 @@ header {
   background: #FC4B83;
   color: white;
   text-align: center;
+  z-index: 9999;
   box-shadow: 0 3px 5px rgba(0, 0, 0, .15);
 }
 
