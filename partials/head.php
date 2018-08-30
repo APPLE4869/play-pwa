@@ -12,7 +12,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 
 <!-- ホーム画面で表示されるAPPのタイトル -->
-<meta name="apple-mobile-web-app-title" content="Appscope">
+<meta name="apple-mobile-web-app-title" content="Dio!">
 
 <!--ホームアイコン-->
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
@@ -30,7 +30,7 @@
 <meta name="theme-color" content="#FC4B83">
 
 <!-- 上部のバーの色 -->
-<meta name="apple-mobile-web-app-status-bar-style" content="#FC4B83">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 
 <!-- ここからスプラッシュ画像の設定 -->
 
