@@ -15,3 +15,5 @@
 
 <!-- バーの色を変える設定 -->
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<link rel="stylesheet" href="./partials/app.css">

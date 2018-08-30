@@ -1,0 +1,10 @@
+header {
+  background: silver;
+  color: white;
+  text-align: center;
+}
+
+a {
+  cursor: pointer;
+  color: navy;
+}
